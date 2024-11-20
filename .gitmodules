@@ -1,0 +1,3 @@
+[submodule "secret-job"]
+	path = secret-job
+	url = https://github.com/diegoreis42/secret-job
